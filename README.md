@@ -1,7 +1,4 @@
-# financial-process-automation-ml
-Automation and analysis of financial data using Python and Machine Learning
-
-# Automatisierung von Finanzprozessen & Maschinelles Lernen
+Automatisierung von Finanzprozessen & Maschinelles Lernen(Automation and analysis of financial data using Python and Machine Learning)
 
 # Überblick
 Dieses Projekt zeigt, wie Finanzdatenanalyse und Prozessautomatisierung mithilfe von Python und maschinellem Lernen kombiniert werden können.
