@@ -35,4 +35,4 @@ Der in diesem Projekt verwendete Datensatz ist simuliert und dient ausschließli
 pip install -r requirements.txt
 python src/analysis.py
 
-Übersetzt mit DeepL.com (kostenlose Version)
+
